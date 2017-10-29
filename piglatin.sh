@@ -11,4 +11,4 @@ nbase="${word:1:${#word}}"
 
 nword=$nbase$fchar
 
-echo $nword
+echo $nbase
