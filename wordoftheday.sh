@@ -3,7 +3,7 @@
 #Spanish word of the day. Selects a random word from dict and then
 #translate with Google translate
 func(){
-shuf -n 1 /usr/share/dict/british-english
+shuf -n 2 /usr/share/dict/british-english
 }
 
 WORD=$(func)
