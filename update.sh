@@ -10,4 +10,4 @@ apt-get dist-upgrade
 wait
 apt-get autoremove
 wait
-echo "Update is finished"
+echo "Update finished"
